@@ -21,7 +21,7 @@ Compile and run the Main class in your preferred Java IDE.
 The program will prompt you to enter the number corresponding to the song you want transcribed and translated.
 Choose between "Despierto - Andrea Bejar" (Option 1) or "Tummy hurts - Renee Rapp" (Option 2).
 5. API Keys
-API keys for AssemblyAI and Google Cloud Translation will be provided upon request. Please email csalazar@harding.edu to request the keys.
+API keys for AssemblyAI and Google Cloud Translation will be provided upon request.
 Contact
 For API keys or any inquiries related to this project, please contact:
 
