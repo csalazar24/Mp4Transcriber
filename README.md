@@ -10,6 +10,7 @@ This project is a Java-based application designed to transcribe MP4 audio files 
 
 ```bash
 git clone https://github.com/csalazar24/Mp4Transcriber.git
+```
 
 2. Set Up Dependencies
 Ensure you have Java installed on your machine.
