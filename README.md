@@ -12,15 +12,15 @@ This project is a Java-based application designed to transcribe MP4 audio files 
 git clone https://github.com/csalazar24/Mp4Transcriber.git
 ```
 
-2. Set Up Dependencies
+## 2. Set Up Dependencies
 Ensure you have Java installed on your machine.
 Set up the necessary libraries (AssemblyAI and Google Cloud Translation) in your project. API keys will be provided upon request.
-3. Compile and Run
+## 3. Compile and Run
 Compile and run the Main class in your preferred Java IDE.
-4. Follow Instructions
+## 4. Follow Instructions
 The program will prompt you to enter the number corresponding to the song you want transcribed and translated.
 Choose between "Despierto - Andrea Bejar" (Option 1) or "Tummy hurts - Renee Rapp" (Option 2).
-5. API Keys
+## 5. API Keys
 API keys for AssemblyAI and Google Cloud Translation will be provided upon request.
 Contact
 For API keys or any inquiries related to this project, please contact:
